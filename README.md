@@ -2,7 +2,7 @@
 This is an exercise in porting an excellent if obscure teaching tool to run on modern systems.
 
 # Oberon
-The programming language Oberon, conceived by Niklaus Wirth in 1986 as a refinement of his previous languages Pascal and Modula-2. It formed the basis of a complete computer and operating system, a number of which were networked and used at the ETH Zurich for many years.
+The programming language Oberon was conceived by Niklaus Wirth in 1986 as a refinement of his previous languages Pascal and Modula-2. It formed the basis of a complete computer and operating system, a number of which were networked and used at the ETH Zurich for many years.
 
 The language itself is a study in refined minimalism, a strong but bare skeleton that still has a lot to teach modern language designers. In fact, it had a significant impact on the design of Google's Go programming language (http://golang.org).
 
