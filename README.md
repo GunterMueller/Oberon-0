@@ -7,7 +7,7 @@ The programming language Oberon was conceived by Niklaus Wirth in 1986 as a refi
 The language itself is a study in refined minimalism, a strong but bare skeleton that still has a lot to teach modern language designers. In fact, it had a significant impact on the design of Google's Go programming language (http://golang.org).
 
 # Oberon-0
-Oberon-0 is a subset of the language intended for teaching and introduced in Nikluas Wirth's _Compiler Construction_ (www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf). This is written in full-fat Oberon to run on the ETH Zurich Oberon System. Not many of these exist in the wild these days, but there is a port of the language (without the operating system) still being maintained at Oxford University: the Oxford Oberon-2 compiler http://spivey.oriel.ox.ac.uk/corner/Installing_OBC_release_2.9
+Oberon-0 is a subset of the language intended for teaching and introduced in Nikluas Wirth's _Compiler Construction_ (www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf). This is written in full-fat Oberon to run on the ETH Zurich Oberon System. Not many of these exist in the wild today, but there is a port of the language (without the operating system) still being maintained at Oxford University: the Oxford Oberon-2 compiler http://spivey.oriel.ox.ac.uk/corner/Installing_OBC_release_2.9
 
 # Files
 This is a port of the original Oberon System source text of the compiler to Oxford Oberon-2, with any necessary changes made to get it to run. The original modules in the book were:
